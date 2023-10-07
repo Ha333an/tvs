@@ -105,3 +105,11 @@ https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b1992000.m3u
 http://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/8wE1Lbp.png" group-title="Entertainment",MANOTO (720p)
 http://edge-uk2.manoto.click/live_500.m3u8
+#EXTINF:-1 tvg-id="AMGTV.ca" group-title="Entertainment",AMG TV (720p)
+http://nl.livekadeh.com/hls2/AMG_src.m3u8
+#EXTINF:-1 tvg-id="CafeTradeTV.us" group-title="Entertainment",Cafe Trade TV (720p)
+http://cafetradehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DamacPersian.ae" group-title="Entertainment",Damac Persian (720p)
+http://damac-tv.icdndhcp.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entertainment",ICC TV (1080p)
+http://icchls.wns.live/hls/stream.m3u8

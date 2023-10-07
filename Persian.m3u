@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="IRIB1.ir" tvg-logo="https://i.imgur.com/q2Hmifv.png" group-title="Iran",IRIB1 (720p)
+#EXTINF:-1 tvg-id="IRIB1.ir" tvg-logo="https://i.imgur.com/q2Hmifv.png" group-title="Entertainment",IRIB1 (720p)
 https://live.aionet.ir/hls/tv1/tv1.m3u8
-#EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://i.imgur.com/H6OJRJP.png" group-title="Iran",IRIB2 (540p)
+#EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://i.imgur.com/H6OJRJP.png" group-title="Entertainment",IRIB2 (540p)
 https://live.aionet.ir/hls/tv2/tv2.m3u8
-#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/vXLUBBn.png" group-title="Iran",IRIB3 (480p)
+#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/vXLUBBn.png" group-title="Entertainment",IRIB3 (480p)
 https://af.ayas.ir/hls2/tv3.m3u8
-#EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://i.imgur.com/tN0XqHY.png" group-title="Iran",IRIB4 (540p)
+#EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://i.imgur.com/tN0XqHY.png" group-title="Entertainment",IRIB4 (540p)
 https://live.aionet.ir/hls/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="Iran",IRIB5 (540p)
+#EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="Entertainment",IRIB5 (540p)
 https://live.aionet.ir/hls/tv5/tv5.m3u8
-#EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-logo="https://i.imgur.com/su89TyX.png" group-title="Iran",IRIB Amouzesh (540p)
+#EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-logo="https://i.imgur.com/su89TyX.png" group-title="Entertainment",IRIB Amouzesh (540p)
 https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
-#EXTINF:-1 tvg-id="IRIBMostanad.ir" tvg-logo="https://i.imgur.com/TN7B7tB.png" group-title="Iran",IRIB Mostanad (540p)
+#EXTINF:-1 tvg-id="IRIBMostanad.ir" tvg-logo="https://i.imgur.com/TN7B7tB.png" group-title="Entertainment",IRIB Mostanad (540p)
 https://live.aionet.ir/hls/mostanad/mostanad.m3u8
-#EXTINF:-1 tvg-id="NamayeshTV.ir" tvg-logo="https://i.imgur.com/fXgwiRu.png" group-title="Iran",IRIB Namayesh (540p)
+#EXTINF:-1 tvg-id="NamayeshTV.ir" tvg-logo="https://i.imgur.com/fXgwiRu.png" group-title="Entertainment",IRIB Namayesh (540p)
 https://live.aionet.ir/hls/namayesh/namayesh.m3u8
-#EXTINF:-1 tvg-id="Nasim.ir" tvg-logo="https://i.imgur.com/jNaABGG.png" group-title="Iran",IRIB Nasim (540p)
+#EXTINF:-1 tvg-id="Nasim.ir" tvg-logo="https://i.imgur.com/jNaABGG.png" group-title="Entertainment",IRIB Nasim (540p)
 https://live.aionet.ir/hls/nasim/nasim.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Iran",IRIB Pooya & Nahal (540p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",IRIB Pooya & Nahal (540p)
 https://live.aionet.ir/hls/pooya/pooya.m3u8
-#EXTINF:-1 tvg-id="SalamatTV.ir" tvg-logo="https://i.imgur.com/mgcVd52.png" group-title="Iran",IRIB Salamat (540p)
+#EXTINF:-1 tvg-id="SalamatTV.ir" tvg-logo="https://i.imgur.com/mgcVd52.png" group-title="Entertainment",IRIB Salamat (540p)
 https://live.aionet.ir/hls/salamat/salamat.m3u8
-#EXTINF:-1 tvg-id="Tamasha.ir" tvg-logo="https://i.imgur.com/xe5KwWS.png" group-title="Iran",IRIB Tamasha (540p)
+#EXTINF:-1 tvg-id="Tamasha.ir" tvg-logo="https://i.imgur.com/xe5KwWS.png" group-title="Entertainment",IRIB Tamasha (540p)
 https://live.aionet.ir/hls/tamasha/tamasha.m3u8
-#EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-logo="https://i.imgur.com/bzxAadP.png" group-title="Iran",IRIB Varzesh (1080p)
+#EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-logo="https://i.imgur.com/bzxAadP.png" group-title="Entertainment",IRIB Varzesh (1080p)
 https://live.aionet.ir/hls/varzesh/varzesh.m3u8
-#EXTINF:-1 tvg-id="IridaTV.gr" tvg-logo="https://i.imgur.com/SAhG923.png" group-title="Iran",Irida TV
+#EXTINF:-1 tvg-id="IridaTV.gr" tvg-logo="https://i.imgur.com/SAhG923.png" group-title="Entertainment",Irida TV
 https://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
-#EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="Iran",IRINN (540p)
+#EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="Entertainment",IRINN (540p)
 https://live.aionet.ir/hls/irinn/irinn.m3u8
 #EXTINF:-1 tvg-id="PayamJavanTV.ir" tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="Entertainment",Payam Javan TV (720p) [Not 24/7]
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8

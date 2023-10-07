@@ -58,3 +58,9 @@ http://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XITE.nl" tvg-logo="http://i.imgur.com/jxuwGRi.png" group-title="Music",XITE (720p) [Not 24/7]
 http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AT5.nl",AT5
+http://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+
+#EXTINF:-1 tvg-id="BR6TV.nl",BR6 TV (720p)
+https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8

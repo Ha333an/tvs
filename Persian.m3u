@@ -4,7 +4,7 @@ http://live.aionet.ir/hls/tv1/tv1.m3u8
 #EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://i.imgur.com/H6OJRJP.png" group-title="Entertainment",IRIB2 (540p)
 http://live.aionet.ir/hls/tv2/tv2.m3u8
 #EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/vXLUBBn.png" group-title="Entertainment",IRIB3 (480p)
-https://stream.ayas.ir/hls2/ayassport1.m3u8
+http://stream.ayas.ir/hls2/ayassport1.m3u8
 #EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://i.imgur.com/tN0XqHY.png" group-title="Entertainment",IRIB4 (540p)
 http://live.aionet.ir/hls/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="Entertainment",IRIB5 (540p)
@@ -30,7 +30,7 @@ http://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="Entertainment",IRINN (540p)
 http://live.aionet.ir/hls/irinn/irinn.m3u8
 #EXTINF:-1 tvg-id="PayamJavanTV.ir" tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="Entertainment",Payam Javan TV (720p) [Not 24/7]
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+http://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RJTV.us" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Music",Radio Javan TV (1080p)
 http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BravoFarsiTV.ir" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Movies",Bravo Farsi TV (360p)
@@ -67,7 +67,7 @@ https://stream.persiantv1.com/ptv1/playlist.m3u8
 http://pfilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Movies",Persiana Cinema (720p)
 http://51.210.199.15/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Comedy;Movies",Persiana Comedy (720p)
+#EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Comedy",Persiana Comedy (720p)
 http://51.210.199.27/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaFamily.fr" tvg-logo="https://i.imgur.com/lMZsuWi.png" group-title="Movies",Persiana Family (720p)
 http://51.210.199.19/hls/stream.m3u8
@@ -85,7 +85,7 @@ http://51.210.199.18/hls/stream.m3u8
 http://51.210.199.14/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaMusic.fr" tvg-logo="https://i.imgur.com/SHxxi5I.png" group-title="Music",Persiana Music (720p)
 http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaNostalgia.fr" tvg-logo="https://i.imgur.com/SWO9CKA.png" group-title="Classic;Music",Persiana Nostalgia (720p)
+#EXTINF:-1 tvg-id="PersianaNostalgia.fr" tvg-logo="https://i.imgur.com/SWO9CKA.png" group-title="Music",Persiana Nostalgia (720p)
 http://51.210.199.20/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Persiana1.fr" tvg-logo="https://i.imgur.com/X1Dv6st.png" group-title="Movies",Persiana One (720p) [Not 24/7]
 http://persiana-one.icdndhcp.com/hls/stream.m3u8

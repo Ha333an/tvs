@@ -33,3 +33,75 @@ http://live.aionet.ir/hls/irinn/irinn.m3u8
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RJTV.us" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Music",Radio Javan TV (1080p)
 http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BravoFarsiTV.ir" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Movies",Bravo Farsi TV (360p)
+http://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CaltexTV.ir" tvg-logo="https://i.imgur.com/qegiypT.png" group-title="Music",Caltex TV (720p) [Not 24/7]
+http://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:-1 tvg-id="AioSport1.ir" tvg-logo="https://assets.aionet.ir/channels/100347" group-title="Sports",Aio Sport 1 (480p)
+http://af.ayas.ir/hls2/aiosport.m3u8
+#EXTINF:-1 tvg-id="AioSport2.ir" tvg-logo="https://assets.aionet.ir/channels/100347" group-title="Sports",Aio Sport 2 (480p) [Not 24/7]
+http://af.ayas.ir/hls2/aiosport2.m3u8
+#EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="Music",AFN TV (720p) [Not 24/7]
+http://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Avang TV (720p)
+http://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AVAFamily.ir" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="Entertainment",AVA Family (720p) [Not 24/7]
+http://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AVASeries.ir" tvg-logo="https://i.imgur.com/8AfAfZE.png" group-title="Series",AVA Series (720p)
+http://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="HastiTV.ir" tvg-logo="https://i.imgur.com/vwjcP7X.png" group-title="Series",Hasti TV (1080p) [Not 24/7]
+https://live.hastitv.com/hls/livetv.m3u8
+#EXTINF:-1 tvg-id="IranInternational.uk" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="News",Iran International (1080p)
+http://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-id="HighVisionTV.ir" tvg-logo="https://i.imgur.com/zhCgoru.png" group-title="Music",High Vision (1080p) [Not 24/7]
+http://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+#EXTINF:-1 tvg-id="PayamJavanTV.ir" tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="Entertainment",Payam Javan TV (720p) [Not 24/7]
+http://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PBCTapeshTV.ir" tvg-logo="https://i.imgur.com/5voEagF.png" group-title="Music",PBC Tapesh TV (720p) [Not 24/7]
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 tvg-id="PersianFilm.ir" tvg-logo="https://i.imgur.com/AB0BaaA.png" group-title="Movies",Persian Film (720p) [Not 24/7]
+http://pfilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianBazaarTV.us" tvg-logo="https://i.ibb.co/zSNkrgh/persian-bazaar-tv.jpg" group-title="Entertainment",Persian Bazaar TV (720p)
+https://stream.persiantv1.com/ptv1/playlist.m3u8
+#EXTINF:-1 tvg-id="PersianFilm.ir" tvg-logo="https://i.imgur.com/AB0BaaA.png" group-title="Movies",Persian Film (720p) [Not 24/7]
+http://pfilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Movies",Persiana Cinema (720p)
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Comedy;Movies",Persiana Comedy (720p)
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaFamily.fr" tvg-logo="https://i.imgur.com/lMZsuWi.png" group-title="Movies",Persiana Family (720p)
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaFamilyPlus.fr" tvg-logo="https://i.imgur.com/dErgBJJ.png" group-title="Movies",Persiana Family Plus (720p) [Not 24/7]
+http://51.210.199.13/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaGameTech.fr" tvg-logo="https://i.imgur.com/Hiw5qim.png" group-title="Entertainment",Persiana Game & Tech (720p) [Not 24/7]
+http://51.210.199.25/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaHD.fr" tvg-logo="https://i.ibb.co/ZYDqMms/Persiana-HD.png" group-title="Movies",Persiana HD (720p)
+https://persiana-hd.icdndhcp.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaIranian.fr" tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="Movies",Persiana Iranian (720p) [Not 24/7]
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="Animation",Persiana Junior (720p)
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaKorea.fr" tvg-logo="https://i.imgur.com/si2ZnIA.png" group-title="Movies",Persiana Korea (720p)
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaMusic.fr" tvg-logo="https://i.imgur.com/SHxxi5I.png" group-title="Music",Persiana Music (720p)
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaNostalgia.fr" tvg-logo="https://i.imgur.com/SWO9CKA.png" group-title="Classic;Music",Persiana Nostalgia (720p)
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana1.fr" tvg-logo="https://i.imgur.com/X1Dv6st.png" group-title="Movies",Persiana One (720p) [Not 24/7]
+http://persiana-one.icdndhcp.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaPlus.fr" tvg-logo="https://i.imgur.com/0xttibX.png" group-title="Movies",Persiana Plus (1080p)
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaRap.fr" tvg-logo="https://i.ibb.co/ThGc7d5/Persiana-Rap.png" group-title="Music",Persiana Rap (720p)
+http://persiana-rap.icdndhcp.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaSonnati.fr" tvg-logo="https://i.imgur.com/yqq5PlP.png" group-title="Music",Persiana Sonnati (576p) [Not 24/7]
+http://51.210.199.59/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaSports.fr" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-Sports.png" group-title="Sports",Persiana Sports (720p)
+http://af.ayas.ir/hls2/persiana.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC (720p)
+http://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",RJ (720p)
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b1992000.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/ePBvFC8.png" group-title="Entertainment",MBC (720p)
+http://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/8wE1Lbp.png" group-title="Entertainment",MANOTO (720p)
+http://edge-uk2.manoto.click/live_500.m3u8

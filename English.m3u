@@ -1,12 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America (720p)
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="http://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America (720p)
+http://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",BBC Drama
-https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNewsSouthAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="News",BBC World News South Asia
+http://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNewsSouthAsia.uk" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="News",BBC World News South Asia
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="BblackAfrica.fr" tvg-logo="https://i.imgur.com/s1kLdBG.png" group-title="Music",BBLACK! AFRICA
+#EXTINF:-1 tvg-id="BblackAfrica.fr" tvg-logo="http://i.imgur.com/s1kLdBG.png" group-title="Music",BBLACK! AFRICA
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
-#EXTINF:-1 tvg-id="BblackCaribbean.fr" tvg-logo="https://i.imgur.com/GyZQCjq.png" group-title="Music",BBLACK! CARIBBEAN
+#EXTINF:-1 tvg-id="BblackCaribbean.fr" tvg-logo="http://i.imgur.com/GyZQCjq.png" group-title="Music",BBLACK! CARIBBEAN
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",BBLACK! CLASSIK
+#EXTINF:-1 tvg-id="BloombergTV.us",Bloomberg TV (1080p)
+http://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us",CNN International Europe (720p)
+http://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr",Fashion TV (1080p)
+http://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MAVTVSelect.us",MavTV Select (720p)
+http://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesUK.uk",Rakuten Action Movies UK (720p)
+http://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesUK.uk",Rakuten Comedy Movies UK (720p)
+http://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesUK.uk",Rakuten Family UK (720p)
+http://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Rakuten Shows UK (720p)
+http://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightUK.uk",Rakuten Spotlight UK (720p)
+http://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Rakuten Top Free UK (720p)
+http://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryNews.us",Revry News (720p)
+http://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in",Travel XP (720p)
+http://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8

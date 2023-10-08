@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:2000,My_Movie_31.mp4
+#EXTINF:group-title="Entertainment",2000,My_Movie_31.mp4
 http://scienceandfilm.org/uploads/videos/files/My_Movie_31.mp4
-#EXTINF:3000,The_Collectors_Gift_rkravetz_mpeg2_1920.mov
-http://scienceandfilm.org/uploads/videos/files/The_Collectors_Gift_rkravetz_mpeg2_1920.mov
-#EXTINF:200,computerchess5.flv
+#EXTINF:group-title="Computer",computerchess5.flv
 http://scienceandfilm.org/uploads/videos/files/computerchess5.flv

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NH.nl" tvg-logo="http://i.imgur.com/SPkK4md.png" group-title="Music",My_Movie_31
+#EXTINF:-1 tvg-id="NH.nl" group-title="Family",My_Movie_31
 http://scienceandfilm.org/uploads/videos/files/My_Movie_31.mp4
 #EXTINF:-1 tvg-id="cc" group-title="News",computerchess5.flv
 http://89.254.128.5:22280/nicktoons/video.m3u8

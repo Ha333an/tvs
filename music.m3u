@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1,|FR| 4K MTV HITS
+http://1.memoiptv.eu:7000/haboubsat/urVc3X9e9ZAU/31942
+#EXTINF:-1,NL: MTV 24 Music HD
+http://1.memoiptv.eu:7000/haboubsat/urVc3X9e9ZAU/32337
+#EXTINF:-1,MTv Hits
+http://1.memoiptv.eu:7000/haboubsat/urVc3X9e9ZAU/32755
+
 #EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-logo="http://i.imgur.com/4Ww7CsR.png" group-title="Music",1HD Music Television (404p) [Not 24/7]
 http://sc.id-tv.kz/1hd.m3u8
 #EXTINF:-1 tvg-id="MusicChannelHungary.hu" tvg-logo="http://i.imgur.com/pzU6FrQ.png" group-title="Music",1Music Channel Hungary (576p)

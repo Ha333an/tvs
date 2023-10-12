@@ -127,3 +127,5 @@ http://slonehls.wns.live/hls/stream.m3u8
 http://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TODAYTV.us" group-title="Entertainment",Today TV (720p)
 http://todayhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Manoto.uk" tvg-logo="https://i.imgur.com/8wE1Lbp.png" group-title="Entertainment",Manoto TV (1080p)
+https://dh4wkqcyy8768.cloudfront.net/live.m3u8

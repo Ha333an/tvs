@@ -1,315 +1,315 @@
 #EXTM3U
-#EXTINF:-1 group-title="Music",7S Music (576p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",7S Music (576p) [Not 24/7]
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 group-title="Music",9XM (480p)
+#EXTINF:-1 tvg-id=""  group-title="Music",9XM (480p)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 group-title="Music",13 Festival (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",13 Festival (1080p)
 http://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 group-title="Music",88 Stereo (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",88 Stereo (720p) [Not 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 group-title="Music",ADRIA Music (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",ADRIA Music (1080p)
 http://cdne.folxplay.tv/folx-trz/streams/ch-1/master.m3u8
-#EXTINF:-1 group-title="Music",Afrobeats (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Afrobeats (1080p)
 http://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 group-title="Music",Amordiscos (540p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Amordiscos (540p)
 http://canal.mediaserver.com.co/live/canalamordiscos.m3u8
-#EXTINF:-1 group-title="Music",Arabica TV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 group-title="Music",Atomic Academy TV (480p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Atomic Academy TV (480p)
 http://atomic.streamnet.ro/academia.m3u8
-#EXTINF:-1 group-title="Music",Atomic TV (360p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Atomic TV (360p)
 http://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:-1 group-title="Persian",Avang TV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Persian",Avang TV (720p)
 http://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Indian",B4U Music India (576p)
+#EXTINF:-1 tvg-id=""  group-title="Indian",B4U Music India (576p)
 http://183.89.246.119:8881/play/a08o/index.m3u8
-#EXTINF:-1 group-title="Music",BTA TV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",BTA TV (720p)
 http://cloud.streamingconnect.tv/hls/bta/bta.m3u8
-#EXTINF:-1 group-title="Music",Canal Cultura Venezuela (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Canal Cultura Venezuela (1080p) [Not 24/7]
 http://ythls.onrender.com/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
-#EXTINF:-1 group-title="Music",City Music TV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",City Music TV (720p)
 http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Clubbing TV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Clubbing TV (720p)
 http://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",CMC (California Music Channel)
+#EXTINF:-1 tvg-id=""  group-title="Music",CMC (California Music Channel)
 http://cmc-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Dance TV (360p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Dance TV (360p)
 http://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Deluxe Music (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Deluxe Music (720p)
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 group-title="Music",Deutsches Musik Fernsehen (540p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Deutsches Musik Fernsehen (540p) [Not 24/7]
 http://tv.artcom-venture.de:1322/dmf/tv.m3u8
-#EXTINF:-1 group-title="Music",Dijlah Tarab (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Dijlah Tarab (1080p)
 http://ghaasiflu.online/tarab/index.m3u8
-#EXTINF:-1 group-title="Music",EMI TV (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",EMI TV (1080p)
 http://188.173.24.23:9093
-#EXTINF:-1 group-title="Music",Euro Indie Music Chart TV (360p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 group-title="Music",Exclusiv TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Exclusiv TV (1080p) [Not 24/7]
 http://ythls.onrender.com/channel/UCXxTnMoETkhNTmsqZc0JMhQ.m3u8
-#EXTINF:-1 group-title="Music",Folk Klub (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Folk Klub (720p)
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
-#EXTINF:-1 group-title="Music",Folk TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Folk TV (1080p) [Not 24/7]
 http://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
-#EXTINF:-1 group-title="Music",FOLX Music (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",FOLX Music (1080p)
 http://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
-#EXTINF:-1 group-title="Music",Folx Slovenija (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Folx Slovenija (1080p)
 http://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
-#EXTINF:-1 group-title="Music",Global TV (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Global TV (1080p)
 http://stmv.video.gmpro.top/global/global/playlist.m3u8
-#EXTINF:-1 group-title="Music",GO TV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",GO TV (720p)
 http://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-#EXTINF:-1 group-title="Music",GO-RTV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",GO-RTV (720p)
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 group-title="Music",INTV Australia (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",INTV Australia (720p)
 http://tv1.intv.mk:1935/live/intv/index.m3u8
-#EXTINF:-1 group-title="Music",Isai Aruvi (576p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Isai Aruvi (576p)
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-#EXTINF:-1 group-title="Music",Izvorna TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Izvorna TV (1080p) [Not 24/7]
 http://ythls.onrender.com/channel/UCCg4AIJUdOL0A_90Mcj1ilA.m3u8
-#EXTINF:-1 group-title="Music",JAWHARA TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",JAWHARA TV (720p) [Not 24/7]
 http://streaming.toutech.net/live/jtv/index.m3u8
-#EXTINF:-1 group-title="Music",JooMusic (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",JooMusic (720p)
 http://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Kalaignar Murasu (576p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Kalaignar Murasu (576p) [Not 24/7]
 http://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-#EXTINF:-1 group-title="Music",Kalika TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Kalika TV (576p) [Not 24/7]
 http://185.105.4.244:1935/livesp/kalika/playlist.m3u8
-#EXTINF:-1 group-title="Music",KRAL Pop TV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",KRAL Pop TV (720p)
 http://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Kuriakos Music (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Kuriakos Music (1080p)
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",La Rock 22 (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",La Rock 22 (1080p)
 http://138.117.4.70:8075/channel22/playlist.m3u8
-#EXTINF:-1 group-title="Music",Latvijas Šlāgerkanāls (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Latvijas Šlāgerkanāls (720p)
 http://stream.onlive-media.com/live/streams/smk.m3u8
-#EXTINF:-1 group-title="Music",Leader Gospel (480p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Leader Gospel (480p) [Not 24/7]
 http://connectiktv.ddns.me:8080/live/61f633c3bae59-1/index.m3u8
-#EXTINF:-1 group-title="Music",M2 (540p)
+#EXTINF:-1 tvg-id=""  group-title="Music",M2 (540p)
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 group-title="Music",m2o TV (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",m2o TV (1080p)
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 group-title="Music",Más Música TV (360p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Más Música TV (360p)
 http://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
-#EXTINF:-1 group-title="Music",Master Show TV (360p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Master Show TV (360p)
 http://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
-#EXTINF:-1 group-title="Music",Melody Channel Colombia (540p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Melody Channel Colombia (540p)
 http://canal.mediaserver.com.co/live/MelodyChannel.m3u8
-#EXTINF:-1 group-title="Music",Molahits TV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Molahits TV (720p)
 http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 group-title="Music",Music Box Russia (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Music Box Russia (1080p)
 http://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
-#EXTINF:-1 group-title="Music",MusicTop (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",MusicTop (720p)
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",Mūzikas Video Kanāls (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Mūzikas Video Kanāls (720p)
 http://stream.onlive-media.com/live/streams/mvk.m3u8
-#EXTINF:-1 group-title="Music",MuzzOne (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",MuzzOne (1080p)
 http://muzzone-stream.daitsuna.net/muzzondvr/muzzone/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Persian",Navahang TV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Persian",Navahang TV (720p)
 http://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music",NCI (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",NCI (1080p)
 http://nci-live.secure2.footprint.net/nci/nci.isml/.m3u8
-#EXTINF:-1 group-title="Music",NevoMusic (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",NevoMusic (1080p) [Not 24/7]
 http://ythls.onrender.com/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8
-#EXTINF:-1 group-title="Music",NogoumFMTV (672p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",NogoumFMTV (672p) [Not 24/7]
 http://nogoumtv.nrpstream.com/hls/stream.m3u8
-#EXTINF:-1 group-title="Music",Now 70's
+#EXTINF:-1 tvg-id=""  group-title="Music",Now 70's
 http://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Now 80's
+#EXTINF:-1 tvg-id=""  group-title="Music",Now 80's
 http://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Now 90's
+#EXTINF:-1 tvg-id=""  group-title="Music",Now 90's
 http://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Óčko (540p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Óčko (540p)
 http://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",Óčko Expres (540p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Óčko Expres (540p)
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:-1 group-title="Music",Óčko Gold (540p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Óčko Gold (540p)
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:-1 group-title="Music",Ondambiental TV (360p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Ondambiental TV (360p)
 http://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
-#EXTINF:-1 group-title="Music",ONE1 Music (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",ONE1 Music (1080p)
 http://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
-#EXTINF:-1 group-title="Music",One Adria (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",One Adria (1080p)
 http://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
-#EXTINF:-1 group-title="Music",Pamir TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Pamir TV (1080p) [Not 24/7]
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 group-title="Music",Panorama FM (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Panorama FM (1080p)
 http://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-#EXTINF:-1 group-title="Music",Persiana Music (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Persiana Music (720p)
 http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1 group-title="Persian",Persiana Nostalgia (720p)
+#EXTINF:-1 tvg-id=""  group-title="Persian",Persiana Nostalgia (720p)
 http://51.210.199.20/hls/stream.m3u8
-#EXTINF:-1 group-title="Persian",Persiana Rap (720p)
+#EXTINF:-1 tvg-id=""  group-title="Persian",Persiana Rap (720p)
 http://persiana-rap.icdndhcp.com/hls/stream.m3u8
-#EXTINF:-1 group-title="Music",PlanetaTV Music (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",PlanetaTV Music (720p)
 http://scl.edge.grupoz.cl/music/live/music.m3u8
-#EXTINF:-1 group-title="Music",Play TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Play TV (480p) [Not 24/7]
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 group-title="Music",Play TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Play TV (720p) [Not 24/7]
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
-#EXTINF:-1 group-title="Music",PMC (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",PMC (1080p)
 http://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music",PMC Royale (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",PMC Royale (720p) [Not 24/7]
 http://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music",Power Dance (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Power Dance (1080p)
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",Power Love (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Power Love (1080p)
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",Power Türk Akustik (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Power Türk Akustik (1080p)
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",Power Türk Slow (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Power Türk Slow (1080p)
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",Power Türk Taptaze (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Power Türk Taptaze (1080p)
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",PTC Dhol (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",PTC Dhol (720p)
 http://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",PTC Music (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",PTC Music (720p)
 http://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",Qello Concerts by Stingray (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Qello Concerts by Stingray (1080p)
 http://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
-#EXTINF:-1 group-title="Music",Qwest TV Jazz & Beyond (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id=""  group-title="Music",Qwest TV Jazz & Beyond (720p) [Geo-blocked]
 http://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Radio Aktual TV (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Radio Aktual TV (1080p)
 http://vr1.radioaktual.si/hls/stream.m3u8
-#EXTINF:-1 group-title="Music",Radio Contact (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Radio Contact (1080p)
 http://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
-#EXTINF:-1 group-title="Persian",Radio Javan TV (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Persian",Radio Javan TV (1080p)
 http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",Radio JND (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Radio JND (1080p)
 http://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
-#EXTINF:-1 group-title="Music",Radio PROS (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Radio PROS (720p) [Not 24/7]
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Music",Retro Plus 2 HD (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Retro Plus 2 HD (720p)
 http://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
-#EXTINF:-1 group-title="Music",Retro Plus HD (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Retro Plus HD (720p)
 http://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Rock TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Rock TV (1080p) [Not 24/7]
 http://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
-#EXTINF:-1 group-title="Music",Rotana Music (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Rotana Music (1080p)
 http://daiconnect.com/live/hls/rotana/music/.m3u8
-#EXTINF:-1 group-title="Music",RTV Glas Drine (404p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",RTV Glas Drine (404p) [Not 24/7]
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
-#EXTINF:-1 group-title="Music",RU.TV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id=""  group-title="Music",RU.TV (1080p) [Geo-blocked]
 http://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
-#EXTINF:-1 group-title="Music",SanjuaneraTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",SanjuaneraTV (720p) [Not 24/7]
 http://live.obslivestream.com/sanjuanera/index.m3u8
-#EXTINF:-1 group-title="Music",Sky Folk TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Sky Folk TV (720p) [Not 24/7]
 http://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 group-title="Music",SL48 TV (576p)
+#EXTINF:-1 tvg-id=""  group-title="Music",SL48 TV (576p)
 http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
-#EXTINF:-1 group-title="Music",Šláger Muzika (576p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Šláger Muzika (576p)
 http://stream-33.mazana.tv/slagr2.m3u
-#EXTINF:-1 group-title="Music",SONGTV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",SONGTV (720p)
 http://songtv.hls.iptvdc.com/web-armenia/index.m3u8
-#EXTINF:-1 group-title="Music",SOY Plancha TV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",SOY Plancha TV (720p)
 http://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-#EXTINF:-1 group-title="Music",Star Folk (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Star Folk (1080p)
 http://live.muzickatv.mk/live/StarMusic.m3u8
-#EXTINF:-1 group-title="Music",Star Plus Music (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Star Plus Music (1080p) [Not 24/7]
 http://live.muzickatv.mk/live/StarMusic2.m3u8
-#EXTINF:-1 group-title="Music",Steelbird Music (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Steelbird Music (720p) [Not 24/7]
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Stingray Djazz (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Stingray Djazz (1080p)
 http://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
-#EXTINF:-1 group-title="Music",Stingray Everything 80s (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Stingray Everything 80s (1080p)
 http://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-#EXTINF:-1 group-title="Music",Stingray Flashback 70s (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Stingray Flashback 70s (1080p)
 http://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-#EXTINF:-1 group-title="Music",Stingray Greatest Hits (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Stingray Greatest Hits (1080p)
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Music",Stingray Holiday Hits (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Stingray Holiday Hits (1080p)
 http://stirr.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1 group-title="Music",Stingray Hot Country (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Stingray Hot Country (1080p)
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Music",Stingray Karaoke (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Stingray Karaoke (720p)
 http://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-#EXTINF:-1 group-title="Music",STIRR Classica (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",STIRR Classica (1080p)
 http://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
-#EXTINF:-1 group-title="Classics",Super Classics TV (360p)
+#EXTINF:-1 tvg-id=""  group-title="Classics",Super Classics TV (360p)
 http://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
-#EXTINF:-1 group-title="Music",Super TV (576p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Super TV (576p)
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Music",Tele7music (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Tele7music (720p)
 http://live.tele7music.ro/hls/stream/index.m3u8
-#EXTINF:-1 group-title="Music",Telemúsica TV (540p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Telemúsica TV (540p)
 http://canal.mediaserver.com.co/live/telemusica.m3u8
-#EXTINF:-1 group-title="Music",Tezaur TV (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Tezaur TV (1080p)
 http://tezaur.mlbfan.org/tezaur/index.m3u8
-#EXTINF:-1 group-title="Music",TMA (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",TMA (1080p)
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 group-title="Music",TopEstrada TV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",TopEstrada TV (720p)
 http://live.topestrada.com/live/topestrada/playlist.m3u8
-#EXTINF:-1 group-title="Music",Toyor Al-Jannah (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Toyor Al-Jannah (720p) [Not 24/7]
 http://ythls.onrender.com/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
-#EXTINF:-1 group-title="Music",Trace Urban
+#EXTINF:-1 tvg-id=""  group-title="Music",Trace Urban
 http://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Music",Traditional TV (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Traditional TV (1080p)
 http://83.103.149.75:8085/udp/239.30.0.9:4000
-#EXTINF:-1 group-title="Music",Tropical Moon Salsa TV
+#EXTINF:-1 tvg-id=""  group-title="Music",Tropical Moon Salsa TV
 http://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Tropical Moon Urban TV
+#EXTINF:-1 tvg-id=""  group-title="Music",Tropical Moon Urban TV
 http://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
-#EXTINF:-1 group-title="Music",TV A7 Plus (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",TV A7 Plus (1080p)
 http://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
-#EXTINF:-1 group-title="Music",TV Arbëria Retro Hits (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",TV Arbëria Retro Hits (720p)
 http://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
-#EXTINF:-1 group-title="Music",TVG Musigal (480p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",TVG Musigal (480p) [Not 24/7]
 http://musigal-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Music",TVS Music Network (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",TVS Music Network (720p)
 http://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
-#EXTINF:-1 group-title="Music",V2BEAT (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",V2BEAT (720p) [Not 24/7]
 http://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Music",Vepaco TV (480p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Vepaco TV (480p)
 http://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
-#EXTINF:-1 group-title="Music",Vevo 80s (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Vevo 80s (720p)
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Music",VH1 Italia (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",VH1 Italia (1080p)
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 group-title="Music",Vibe Music TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Vibe Music TV (360p) [Not 24/7]
 http://connectiktv.ddns.me:8080/live/62455ef0ac47a/index.m3u8
-#EXTINF:-1 group-title="Music",Video Tour Channel (480p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Video Tour Channel (480p) [Not 24/7]
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:-1 group-title="Music",Visión TV Música (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Visión TV Música (720p) [Not 24/7]
 http://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
-#EXTINF:-1 group-title="Music",VIVA Russia (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",VIVA Russia (1080p) [Not 24/7]
 http://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:-1 group-title="Music",VM Latino (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",VM Latino (720p) [Not 24/7]
 http://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 group-title="Music",VoiceOver Radio TV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",VoiceOver Radio TV (720p)
 http://cloudvideo.servers10.com:8081/8198/index.m3u8
-#EXTINF:-1 group-title="Music",Volksmusik TV (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Volksmusik TV (1080p)
 http://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
-#EXTINF:-1 group-title="Music",Wanasah (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Wanasah (1080p)
 http://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#EXTINF:-1 group-title="Music",XITE (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",XITE (720p) [Not 24/7]
 http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",Zerouno TV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Zerouno TV (720p)
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1 group-title="Music",ZFM Zoetermeer (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",ZFM Zoetermeer (720p)
 http://zfmzoetermeer.nl/live/master.m3u8
-#EXTINF:-1 group-title="Music",ZWEI2 Music (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",ZWEI2 Music (1080p)
 http://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
-#EXTINF:-1 group-title="Music",Жар Птица (404p) [Geo-blocked]
+#EXTINF:-1 tvg-id=""  group-title="Music",Жар Птица (404p) [Geo-blocked]
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:-1 group-title="Music",Матур ТВ (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Матур ТВ (1080p)
 http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="Music",Муз союз (576p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Муз союз (576p)
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 group-title="Music",Первый Музыкальный Канал HD (720p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Первый Музыкальный Канал HD (720p)
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 group-title="Music",Первый Музыкальный Канал Россия (576p)
+#EXTINF:-1 tvg-id=""  group-title="Music",Первый Музыкальный Канал Россия (576p)
 http://rtmp.one.by:2200
-#EXTINF:-1 group-title="Music",Радио Шансон (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Радио Шансон (720p) [Not 24/7]
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 group-title="Music",Страна FM (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Music",Страна FM (720p) [Not 24/7]
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Music",Шансон ТВ (512p) [Geo-blocked]
+#EXTINF:-1 tvg-id=""  group-title="Music",Шансон ТВ (512p) [Geo-blocked]
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Persian",Radio Javan TV (1080p)
+#EXTINF:-1 tvg-id=""  group-title="Persian",Radio Javan TV (1080p)
 http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Persian",Caltex TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Persian",Caltex TV (720p) [Not 24/7]
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
-#EXTINF:-1 group-title="Persian",Avang TV (720p)
+#EXTINF:-1 tvg-id=""  group-title="Persian",Avang TV (720p)
 http://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persian",PBC Tapesh TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=""  group-title="Persian",PBC Tapesh TV (720p) [Not 24/7]
 http://iptv.tapesh.tv/tapesh/playlist.m3u8

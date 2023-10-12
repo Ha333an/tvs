@@ -15,20 +15,14 @@ http://stream.ecable.tv/afrobeats/index.m3u8
 http://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 #EXTINF:-1 group-title="Music",Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 group-title="Music",like Gecko) Mobile/15E148" group-title="Music",Armenia Ջան TV (480p) [Not 24/7]
-http://ott-cdn.ucom.am/s42/index.m3u8
 #EXTINF:-1 group-title="Music",Atomic Academy TV (480p)
 http://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 group-title="Music",Atomic TV (360p)
 http://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:-1 group-title="Music",like Gecko) Mobile/15E148" group-title="Music",ATV Հայ TV (480p)
-http://ott-cdn.ucom.am/s73/index.m3u8
 #EXTINF:-1 group-title="Persian",Avang TV (720p)
 http://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Indian",B4U Music India (576p)
 http://183.89.246.119:8881/play/a08o/index.m3u8
-#EXTINF:-1 group-title="Music",Box Hits (576p)
-http://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01 group-title="Music",boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits
 #EXTINF:-1 group-title="Music",BTA TV (720p)
 http://cloud.streamingconnect.tv/hls/bta/bta.m3u8
 #EXTINF:-1 group-title="Music",Canal Cultura Venezuela (1080p) [Not 24/7]
@@ -101,8 +95,6 @@ http://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
 http://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 #EXTINF:-1 group-title="Music",Melody Channel Colombia (540p)
 http://canal.mediaserver.com.co/live/MelodyChannel.m3u8
-#EXTINF:-1 group-title="Music",like Gecko) Mobile/15E148" group-title="Music",Mezzo (480p)
-http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 group-title="Music",Molahits TV (720p)
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 group-title="Music",Music Box Russia (1080p)
@@ -143,7 +135,7 @@ http://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 group-title="Music",Panorama FM (1080p)
 http://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-#EXTINF:-1 group-title="Persian",Persiana Music (720p)
+#EXTINF:-1 group-title="Music",Persiana Music (720p)
 http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1 group-title="Persian",Persiana Nostalgia (720p)
 http://51.210.199.20/hls/stream.m3u8

@@ -64,3 +64,6 @@ http://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protoco
 
 #EXTINF:-1 tvg-id="BR6TV.nl",BR6 TV (720p)
 https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LiveEind",Live Camera Eindhoven (720p)
+http://80.56.142.202:83/mjpg/video.mjpg

@@ -163,3 +163,76 @@ http://1.memoiptv.eu:7000/haboubsat/urVc3X9e9ZAU/32934
 http://1.memoiptv.eu:7000/haboubsat/urVc3X9e9ZAU/32946
 #EXTINF:-1 group-title="Comedy",Comedy Central HD
 http://1.memoiptv.eu:7000/haboubsat/urVc3X9e9ZAU/32947
+
+#EXTINF:-1  group-title="Entertainment",NAT GEO People HD
+http://iptv.nextnet.krd:25461/nextnet/3738/114
+#EXTINF:-1  group-title="Entertainment",NAT GEO Wild HD
+http://iptv.nextnet.krd:25461/nextnet/3738/115
+#EXTINF:-1  group-title="Entertainment",National Geographic HD
+http://iptv.nextnet.krd:25461/nextnet/3738/116
+
+
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="BBC ONE" tvg-logo="https://static.epgguide.net/icon/bbc1.uk.png" group-title="ENTERTAINMENT",BBC ONE
+http://51.159.210.91:80/live.ts?channelId=1&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="BBC TWO HD" tvg-logo="https://static.epgguide.net/icon/bbc2.uk.png" group-title="ENTERTAINMENT",BBC TWO HD
+http://51.159.210.91:80/hls/1754.m3u8?channelId=1754&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="BBC TWO" tvg-logo="https://static.epgguide.net/icon/bbc2.uk.png" group-title="ENTERTAINMENT",BBC TWO
+http://51.159.210.91:80/hls/2.m3u8?channelId=2&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="bbc3.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="BBC 3" tvg-logo="https://static.epgguide.net/icon/bbc3.uk.png" group-title="ENTERTAINMENT",BBC 3
+http://51.159.210.91:80/live.ts?channelId=3&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="BBC 4" tvg-logo="https://static.epgguide.net/icon/bbc4.uk.png" group-title="ENTERTAINMENT",BBC 4
+http://51.159.210.91:80/live.ts?channelId=4&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="itv1angliaplus1.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="ITV1 +1" tvg-logo="https://static.epgguide.net/icon/itv1.uk.png" group-title="ENTERTAINMENT",ITV1 +1
+http://89.187.167.93:80/live.ts?channelId=1872&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="itv1.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="ITV 1" tvg-logo="https://static.epgguide.net/icon/itv1.uk.png" group-title="ENTERTAINMENT",ITV 1
+http://89.187.167.93:80/live.ts?channelId=5&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="itv2.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="ITV 2" tvg-logo="https://static.epgguide.net/icon/itv2.uk.png" group-title="ENTERTAINMENT",ITV 2
+http://89.187.167.93:80/live.ts?channelId=6&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="itv3.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="ITV 3" tvg-logo="https://static.epgguide.net/icon/itv3.uk.png" group-title="ENTERTAINMENT",ITV 3
+http://89.187.167.93:80/live.ts?channelId=7&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="itv4.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="ITV 4" tvg-logo="https://static.epgguide.net/icon/itv4.uk.png" group-title="ENTERTAINMENT",ITV 4
+http://89.187.167.93:80/live.ts?channelId=8&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="discoverychannelplus1.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="Discovery +1" tvg-logo="" group-title="DOCUMENTRY",Discovery +1
+http://51.159.211.250:80/live.ts?channelId=1871&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="ITVBe" tvg-logo="https://static.epgguide.net/icon/itvbe.uk.png" group-title="ENTERTAINMENT",ITVBe
+http://89.187.167.93:80/live.ts?channelId=9&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="channel4.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="CHANNEL 4" tvg-logo="https://static.epgguide.net/icon/channel4.uk.png" group-title="ENTERTAINMENT",CHANNEL 4
+http://89.187.167.92:80/live.ts?channelId=10&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="e4.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="E4" tvg-logo="https://static.epgguide.net/icon/e4.uk.png" group-title="ENTERTAINMENT",E4
+http://51.159.210.91:80/live.ts?channelId=11&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="more4plus1.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="More4 +1" tvg-logo="https://static.epgguide.net/icon/more4.uk.png" group-title="ENTERTAINMENT",More4 +1
+http://51.159.210.91:80/live.ts?channelId=13&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="4seven.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="4 SEVEN" tvg-logo="https://static.epgguide.net/icon/4seven.uk.png" group-title="ENTERTAINMENT",4 SEVEN
+http://51.159.211.250:80/live.ts?channelId=14&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="channel5.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="CHANNEL 5" tvg-logo="https://static.epgguide.net/icon/channel5.uk.png" group-title="ENTERTAINMENT",CHANNEL 5
+http://51.159.211.250:80/live.ts?channelId=15&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="5 USA" tvg-logo="https://static.epgguide.net/icon/fiveusa.uk.png" group-title="ENTERTAINMENT",5 USA
+http://51.159.210.91:80/live.ts?channelId=16&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="5star.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="5 STAR" tvg-logo="https://static.epgguide.net/icon/5star.uk.png" group-title="ENTERTAINMENT",5 STAR
+http://51.159.210.91:80/live.ts?channelId=17&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="5action.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="5 ACTION" tvg-logo="https://static.epgguide.net/icon/5action.uk.png" group-title="ENTERTAINMENT",5 ACTION
+http://51.159.211.250:80/live.ts?channelId=18&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="SKY ARTS" tvg-logo="https://static.epgguide.net/icon/skyarts.uk.png" group-title="ENTERTAINMENT",SKY ARTS
+http://51.159.210.91:80/live.ts?channelId=19&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="quest.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="QUEST" tvg-logo="https://static.epgguide.net/icon/quest.uk.png" group-title="ENTERTAINMENT",QUEST
+http://51.159.211.250:80/live.ts?channelId=20&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="questplus1.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="QUEST +1" tvg-logo="https://static.epgguide.net/icon/quest.uk.png" group-title="ENTERTAINMENT",QUEST +1
+http://51.159.211.250:80/live.ts?channelId=1873&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="questredplus1.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="Quest Red +1" tvg-logo="https://static.epgguide.net/icon/questred.uk.png" group-title="ENTERTAINMENT",Quest Red +1
+http://51.159.210.91:80/live.ts?channelId=1874&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="questred.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="QUEST RED" tvg-logo="https://static.epgguide.net/icon/questred.uk.png" group-title="ENTERTAINMENT",QUEST RED
+http://51.159.210.91:80/live.ts?channelId=21&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="really.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="REALLY" tvg-logo="https://static.epgguide.net/icon/really.uk.png" group-title="ENTERTAINMENT",REALLY
+http://51.159.211.250:80/hls/22.m3u8?channelId=22&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="dave.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="DAVE" tvg-logo="https://static.epgguide.net/icon/dave.uk.png" group-title="ENTERTAINMENT",DAVE
+http://51.159.210.91:80/live.ts?channelId=23&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="davejavu.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="DAVE JA VU" tvg-logo="https://static.epgguide.net/icon/davejavu.uk.png" group-title="ENTERTAINMENT",DAVE JA VU
+http://51.159.211.250:80/live.ts?channelId=24&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="drama.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="DRAMA" tvg-logo="https://static.epgguide.net/icon/drama.uk.png" group-title="ENTERTAINMENT",DRAMA
+http://51.159.210.91:80/live.ts?channelId=25&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="w.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="W" tvg-logo="https://static.epgguide.net/icon/w.uk.png" group-title="ENTERTAINMENT",W
+http://51.159.211.250:80/live.ts?channelId=26&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="YESTERDAY" tvg-logo="https://static.epgguide.net/icon/yesterday.uk.png" group-title="ENTERTAINMENT",YESTERDAY
+http://51.159.210.91:80/live.ts?channelId=27&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 tvg-id="picktv.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="PICK" tvg-logo="https://static.epgguide.net/icon/picktv.uk.png" group-title="ENTERTAINMENT",PICK
+http://51.159.211.250:80/live.ts?channelId=28&deviceUser=alex1234&devicePass=alex1234&uid=21890

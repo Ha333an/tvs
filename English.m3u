@@ -104,10 +104,6 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636
 #EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us" group-title="Entertainment",Pluto TV Crime Drama (720p)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="Comedy",||UK|| COMEDY CENTRAL FHD
-http://obshd.tv:25461/Exchcyprusiptv/cDbcUX4ehD/2986
-#EXTINF:-1 group-title="Comedy",||UK|| COMEDY CENTRAL EXTRA FHD
-http://obshd.tv:25461/Exchcyprusiptv/cDbcUX4ehD/2987
 
 #EXTINF:-1 group-title="Entertainment",BBC 1
 http://1.memoiptv.eu:7000/haboubsat/urVc3X9e9ZAU/32835
@@ -172,36 +168,26 @@ http://iptv.nextnet.krd:25461/nextnet/3738/115
 http://iptv.nextnet.krd:25461/nextnet/3738/116
 
 
-#EXTINF:-1,UK BBC One FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752854
 #EXTINF:-1,UK BBC One HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752856
 #EXTINF:-1,UK BBC One SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752857
-#EXTINF:-1,UK BBC Two FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752859
 #EXTINF:-1,UK BBC Two HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752860
 #EXTINF:-1,UK BBC Two SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752862
-#EXTINF:-1,UK ITV FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752863
 #EXTINF:-1,UK ITV HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752865
 #EXTINF:-1,UK ITV SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752866
 #EXTINF:-1,UK ITV+1
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752868
-#EXTINF:-1,UK Channel 4 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752869
 #EXTINF:-1,UK Channel 4 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752871
 #EXTINF:-1,UK Channel 4 SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752872
 #EXTINF:-1,UK Channel 4+1
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752874
-#EXTINF:-1,UK Channel 5 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752875
 #EXTINF:-1,UK Channel 5 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752877
 #EXTINF:-1,UK Channel 5 SD
@@ -214,32 +200,22 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1031013
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/862932
 #EXTINF:-1,UK BBC Three
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/862933
-#EXTINF:-1,UK BBC Four FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752881
 #EXTINF:-1,UK BBC Four
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752883
-#EXTINF:-1,UK BBC Scotland FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752884
 #EXTINF:-1,UK BBC Alba
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/975490
-#EXTINF:-1,UK ITV2 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752886
 #EXTINF:-1,UK ITV2 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752887
 #EXTINF:-1,UK ITV2 SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752890
 #EXTINF:-1,UK ITV2+1
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752891
-#EXTINF:-1,UK ITV3 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752893
 #EXTINF:-1,UK ITV 3 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752894
 #EXTINF:-1,UK ITV3 SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752896
 #EXTINF:-1,UK ITV3 +1
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752897
-#EXTINF:-1,UK ITV4 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752899
 #EXTINF:-1,UK ITV 4 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752900
 #EXTINF:-1,UK ITV4 SD
@@ -248,46 +224,30 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752902
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752903
 #EXTINF:-1,UK ITVBe SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752905
-#EXTINF:-1,UK STV FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752906
-#EXTINF:-1,UK Sky Arts FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752908
 #EXTINF:-1,UK Sky Arts HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752909
 #EXTINF:-1,UK Sky Arts SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752911
-#EXTINF:-1,UK Sky Atlantic FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752912
 #EXTINF:-1,UK Sky Atlantic HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752914
 #EXTINF:-1,UK Sky Atlantic SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752916
-#EXTINF:-1 group-title="Comedy",UK Sky Comedy FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752917
 #EXTINF:-1 group-title="Comedy",UK Sky Comedy HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752919
 #EXTINF:-1 group-title="Comedy",UK Sky Comedy SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752921
-#EXTINF:-1,UK Sky Crime FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752922
 #EXTINF:-1,UK Sky Crime HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752924
 #EXTINF:-1,UK Sky Crime SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752925
-#EXTINF:-1,UK Sky Max FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752927
 #EXTINF:-1,UK Sky Max SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752928
 #EXTINF:-1,UK Sky Replay
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752930
-#EXTINF:-1,UK Sky Showcase FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752931
 #EXTINF:-1,UK Sky Showcase HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752933
 #EXTINF:-1,UK Showcase
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752935
-#EXTINF:-1,UK Sky Witness FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752936
 #EXTINF:-1,UK Sky Witness HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752938
 #EXTINF:-1,UK Sky Witness SD
@@ -306,8 +266,6 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752946
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752947
 #EXTINF:-1,UK 5USA+1
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752949
-#EXTINF:-1,UK alibi FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752950
 #EXTINF:-1,UK Alibi HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752952
 #EXTINF:-1,UK alibi SD
@@ -328,8 +286,6 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752962
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752964
 #EXTINF:-1 group-title="Comedy",UK ComedyCent+1
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752965
-#EXTINF:-1 group-title="Comedy",UK ComedyCent FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752967
 #EXTINF:-1 group-title="Comedy",UK Comedy Central HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752968
 #EXTINF:-1 group-title="Comedy",UK ComedyCentral SD
@@ -338,8 +294,6 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752970
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752971
 #EXTINF:-1,UK Court TV
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/992612
-#EXTINF:-1,UK Dave FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752973
 #EXTINF:-1,UK Dave HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752974
 #EXTINF:-1,UK Dave SD
@@ -354,30 +308,22 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752979
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752980
 #EXTINF:-1,UK Drama+1
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752981
-#EXTINF:-1,UK E! FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752982
 #EXTINF:-1,UK E! Entertainment HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752983
 #EXTINF:-1,UK E! SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752984
-#EXTINF:-1,UK E4 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752985
 #EXTINF:-1,UK E4 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752986
 #EXTINF:-1,UK E4 SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752987
 #EXTINF:-1,UK E4+1
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752988
-#EXTINF:-1,UK Film4 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752989
 #EXTINF:-1,UK Film 4 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752990
 #EXTINF:-1,UK Film4 SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752991
 #EXTINF:-1,UK Film4 +1
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752992
-#EXTINF:-1,UK GOLD FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752994
 #EXTINF:-1,UK Gold HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752995
 #EXTINF:-1,UK GOLD SD
@@ -408,8 +354,6 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/752999
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753000
 #EXTINF:-1,UK Horror Xtra (Horror channel)
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753001
-#EXTINF:-1,UK More 4 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753002
 #EXTINF:-1,UK More4 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753003
 #EXTINF:-1,UK More 4 SD
@@ -424,8 +368,6 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753927
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753008
 #EXTINF:-1,UK Pick+1
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753009
-#EXTINF:-1,UK QUEST FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753010
 #EXTINF:-1,UK Quest HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753011
 #EXTINF:-1,UK QUEST SD
@@ -438,8 +380,6 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753014
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753015
 #EXTINF:-1,UK Really
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753016
-#EXTINF:-1,UK S4C FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753018
 #EXTINF:-1,UK S4C HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753817
 #EXTINF:-1,UK S4C SD
@@ -448,20 +388,14 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753017
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753019
 #EXTINF:-1,UK Sony tv
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753020
-#EXTINF:-1,UK SONY MAX FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753021
 #EXTINF:-1,UK Sony Max HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753022
 #EXTINF:-1,UK SONY MAX 2
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753023
-#EXTINF:-1,UK SONY TV FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753024
 #EXTINF:-1,UK Sony TV HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753025
 #EXTINF:-1,UK Spotlight TV
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753026
-#EXTINF:-1,UK SYFY FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753027
 #EXTINF:-1,UK SyFy HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753028
 #EXTINF:-1,UK SYFY SD
@@ -470,8 +404,6 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753029
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/971233
 #EXTINF:-1,UK TalkingPictures
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753030
-#EXTINF:-1,UK TLC FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753033
 #EXTINF:-1,UK TLC HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753034
 #EXTINF:-1,UK TLC SD
@@ -480,8 +412,6 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753035
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753036
 #EXTINF:-1,UK Together TV
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/971165
-#EXTINF:-1,UK WATCH FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753037
 #EXTINF:-1,UK Watch HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753038
 #EXTINF:-1,UK Watch SD
@@ -506,8 +436,6 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/975463
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/975465
 #EXTINF:-1,BBC One North West
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753046
-#EXTINF:-1,BBC One Scotland FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753047
 #EXTINF:-1,BBC One Scotland
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753048
 #EXTINF:-1,BBC_One_Wales_HD
@@ -592,16 +520,12 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753076
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753077
 #EXTINF:-1,STV_North_Region_(UK_Regional)
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753078
-#EXTINF:-1,UK RTE One FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753079
 #EXTINF:-1,UK RTE 1 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753080
 #EXTINF:-1,UK RTE One SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753081
 #EXTINF:-1,UK RTE One+1
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753082
-#EXTINF:-1,UK RTE Two FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753083
 #EXTINF:-1,UK RTE 2 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753084
 #EXTINF:-1,UK RTE Two SD
@@ -614,20 +538,12 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753087
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753088
 #EXTINF:-1,UK TG4 SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753089
-#EXTINF:-1,UK UTV FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753090
 #EXTINF:-1,UK UTV HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753816
 #EXTINF:-1,UK UTV Ireland
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753091
-#EXTINF:-1,Virgin Media One FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753092
 #EXTINF:-1,UK Virgin Media One
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753093
-#EXTINF:-1,Virgin Media Two FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753094
-#EXTINF:-1,UK Virgin Media Three FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753095
 #EXTINF:-1,UK Virgin Media Three HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753096
 #EXTINF:-1,UK Virgin Media Three SD
@@ -638,26 +554,18 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753098
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753099
 #EXTINF:-1,UK Virgin Media Two HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753100
-#EXTINF:-1,SKY CINEMA PREMIER FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/475139
 #EXTINF:-1,UK Sky Cinema Premier HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753101
 #EXTINF:-1,Sky Cinema Premier SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753102
-#EXTINF:-1,SKY CINEMA ACTION FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/475144
 #EXTINF:-1,UK Sky Cinema Action HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753103
 #EXTINF:-1,Sky Cinema Action SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753104
-#EXTINF:-1,SKY CINEMA ANIMATION FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/608255
 #EXTINF:-1,UK Sky Cinema Animation HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753105
 #EXTINF:-1,UK Sky Cinema Animation SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753106
-#EXTINF:-1 group-title="Comedy",SKY CINEMA COMEDY FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/475142
 #EXTINF:-1 group-title="Comedy",UK Sky Cinema Comedy HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753107
 #EXTINF:-1 group-title="Comedy",Sky Cinema Comedy SD
@@ -666,80 +574,44 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753108
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753109
 #EXTINF:-1,Sky Cinema Drama / Xmas SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753110
-#EXTINF:-1,SKY CINEMA FAMILY FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/475141
 #EXTINF:-1,UK Sky Cinema Family HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753111
 #EXTINF:-1,Sky Cinema Family SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753112
-#EXTINF:-1,SKY CINEMA GREATS FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/475148
 #EXTINF:-1,UK Sky Cinema Greats HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753113
 #EXTINF:-1,Sky Cinema Greats SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753114
-#EXTINF:-1,SKY CINEMA HITS FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/475140
 #EXTINF:-1,UK Sky Cinema Hits HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753115
 #EXTINF:-1,Sky Cinema Hits SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753116
-#EXTINF:-1,SKY CINEMA SCI-FI FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/475146
 #EXTINF:-1,UK Sky Cinema Syfy & Horror HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753117
 #EXTINF:-1,Sky Cinema Syfy & Horror SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753118
-#EXTINF:-1,SKY CINEMA SELECT/OSCARS FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/475149
 #EXTINF:-1,UK Sky Cinema Select HD / 5 star
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753119
 #EXTINF:-1,Sky Cinema Select SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753120
-#EXTINF:-1,SKY CINEMA THRILLER FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/475147
 #EXTINF:-1,UK Sky Cinema Thriller HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753121
 #EXTINF:-1,Sky Cinema Thriller SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753122
 #EXTINF:-1,UK TNT Sport Ultimate 4K
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1006055
-#EXTINF:-1,UK TNT Sport 1 FHD 50FPS
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/992606
-#EXTINF:-1,UK TNT Sport 1 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753794
-#EXTINF:-1,UK TNT Sport 1 FHD HEVC
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/992602
 #EXTINF:-1,UK TNT Sports 1 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753795
 #EXTINF:-1,UK TNT Sport 1 SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753796
-#EXTINF:-1,UK TNT Sport 2 FHD 50FPS
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/992607
-#EXTINF:-1,UK TNT Sport 2 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753797
-#EXTINF:-1,UK TNT Sport 2 FHD HEVC
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/992603
 #EXTINF:-1,UK TNT Sports 2 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753798
 #EXTINF:-1,UK TNT Sport 2 SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753799
-#EXTINF:-1,UK TNT Sport 3 FHD 50FPS
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/992608
-#EXTINF:-1,UK TNT Sport 3 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753800
-#EXTINF:-1,UK TNT Sport 3 FHD HEVC
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/992604
 #EXTINF:-1,UK TNT Sports 3 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753801
 #EXTINF:-1,UK TNT Sport 3 SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753802
-#EXTINF:-1,UK TNT Sport 4 FHD 50FPS
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/992609
-#EXTINF:-1,UK TNT Sport 4 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753803
-#EXTINF:-1,UK TNT Sport 4 FHD HEVC
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/992605
 #EXTINF:-1,UK TNT Sport 4 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753804
 #EXTINF:-1,UK TNT Sport 4 SD
@@ -760,22 +632,16 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753811
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753812
 #EXTINF:-1,UK BT Sport Mosaic 2
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753813
-#EXTINF:-1,UK BT Box Office FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753814
 #EXTINF:-1,UK BT Box Office HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753815
 #EXTINF:-1,UK Animal Planet
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753818
 #EXTINF:-1,UK Animal Planet +1
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753819
-#EXTINF:-1,UK Crime & Investigation FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753820
 #EXTINF:-1,UK Crime & Investigation HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753821
 #EXTINF:-1,UK Crime & Investigation SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753822
-#EXTINF:-1,UK Discovery FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753823
 #EXTINF:-1,UK Discovery HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753824
 #EXTINF:-1,UK Discovery SD
@@ -806,36 +672,24 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753836
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753837
 #EXTINF:-1,UK Investigation Discovery +1
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753838
-#EXTINF:-1,UK Nat Geo FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753839
 #EXTINF:-1,UK Nat Geo HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753840
 #EXTINF:-1,UK Nat Geo
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753841
-#EXTINF:-1,UK Nat Geo Wild FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753842
 #EXTINF:-1,UK Nat Geo Wild HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753843
 #EXTINF:-1,UK Nat Geo Wild SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753844
-#EXTINF:-1,UK Sky Documentries FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753845
 #EXTINF:-1,UK Sky Documentaries HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753846
-#EXTINF:-1,UK Sky History FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753847
 #EXTINF:-1,UK History HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753848
 #EXTINF:-1,UK Sky History SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753849
-#EXTINF:-1,UK Sky History 2 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753850
 #EXTINF:-1,UK History 2 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753851
 #EXTINF:-1,UK Sky History2 SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753852
-#EXTINF:-1,UK Sky Nature FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753853
 #EXTINF:-1,UK Sky Nature HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753854
 #EXTINF:-1,UK 4 Extra (4Music)
@@ -868,16 +722,12 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753867
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753868
 #EXTINF:-1,UK BabyTV
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753869
-#EXTINF:-1,UK Boomerang FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753870
 #EXTINF:-1,UK Boomerang HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753871
 #EXTINF:-1,UK Boomerang SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753872
 #EXTINF:-1,UK Boomerang+1
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753873
-#EXTINF:-1,UK Cartoon Network FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753874
 #EXTINF:-1,UK Cartoon Network HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753875
 #EXTINF:-1,UK Cartoon Network SD
@@ -888,26 +738,18 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753877
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753878
 #EXTINF:-1,UK Cartoonito
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753879
-#EXTINF:-1,UK CBBC FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753880
-#EXTINF:-1,UK CBeebies FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753881
 #EXTINF:-1,UK CBeebies HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753882
 #EXTINF:-1,UK CITV
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753883
 #EXTINF:-1,UK Nick Jr. Too
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753884
-#EXTINF:-1,UK Nick Jr. FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753885
 #EXTINF:-1,UK Nick Jr HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753886
 #EXTINF:-1,UK Nick Jr SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753887
 #EXTINF:-1,UK Nick Jr. +1
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753888
-#EXTINF:-1,UK Nickelodeon FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753889
 #EXTINF:-1,UK Nickelodeon HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753890
 #EXTINF:-1,UK Nickelodeon SD
@@ -930,14 +772,10 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753898
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753899
 #EXTINF:-1,UK BoxNation SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753900
-#EXTINF:-1,UK Eurosport 1 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753901
 #EXTINF:-1,UK Eurosports 1 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753902
 #EXTINF:-1,UK Eurosport 1 SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753903
-#EXTINF:-1,UK Eurosport 2 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753904
 #EXTINF:-1,UK Eurosports 2 HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753905
 #EXTINF:-1,UK Eurosport 2 SD
@@ -950,30 +788,20 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/865189
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/865190
 #EXTINF:-1,UK Horse & Country
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/973865
-#EXTINF:-1,UK MUTV FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753910
 #EXTINF:-1,UK MUTV HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753911
 #EXTINF:-1,UK MUTV SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753912
-#EXTINF:-1,UK LaLigaTV FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753913
 #EXTINF:-1,UK LaLigaTV HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753914
 #EXTINF:-1,UK LFC TV HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753915
-#EXTINF:-1,UK Racing TV FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753922
 #EXTINF:-1,Racing tv HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753923
 #EXTINF:-1,UK Racing TV SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753924
-#EXTINF:-1,UK SPORTY STUFF FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753925
 #EXTINF:-1,UK Sporty Stuff HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753926
-#EXTINF:-1,UK Viaplay Sports 1 FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753916
 #EXTINF:-1,UK Viaplay Sports 1 IR HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753917
 #EXTINF:-1,UK Viaplay Sports 1 SD
@@ -984,14 +812,10 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753919
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753920
 #EXTINF:-1,UK Viaplay Sports 2 UK SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753921
-#EXTINF:-1,UK Viaplay Xtra FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753907
 #EXTINF:-1,UK Viaplay Xtra HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753908
 #EXTINF:-1,UK Viaplay Xtra SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753909
-#EXTINF:-1,UK Sky News FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753928
 #EXTINF:-1,UK Sky News HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753929
 #EXTINF:-1,UK Sky News SD
@@ -1000,14 +824,10 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753930
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753931
 #EXTINF:-1,UK Al Jazeera Eng SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753932
-#EXTINF:-1,UK BBC NEWS FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753933
 #EXTINF:-1,UK BBC News SD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753935
 #EXTINF:-1,UK BBC Parliament
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753936
-#EXTINF:-1,UK Bloomerg FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753937
 #EXTINF:-1,UK CNN HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753939
 #EXTINF:-1,UK CNN SD
@@ -1026,8 +846,6 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753946
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753947
 #EXTINF:-1,UK London Live
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753948
-#EXTINF:-1,UK RT (Russia Today) FHD
-http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753949
 #EXTINF:-1,UK Russia Today HD
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753950
 

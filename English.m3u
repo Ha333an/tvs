@@ -857,3 +857,39 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753955
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753956
 #EXTINF:-1,UK B4U Movies
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/753957
+
+#EXTINF:-1 tvg-id="Bing-NL" tvg-logo="" group-title="Kids",movie
+http://www.youtube.com/watch?v=wxbMjPPIY4w&ab_channel=BingNederlands-Offici%C3%ABleKanaal
+
+#EXTINF:-1 tvg-id="TalkingTom" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=MeAmikSx3v8&ab_channel=TalkingTom
+
+#EXTINF:-1 tvg-id="PAWPatrol" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=sb54zo11hSU&ab_channel=PAWPatrolOfficial%26Friends
+
+#EXTINF:-1 tvg-id="Peacockjr" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=01bBZuHJ5yk&ab_channel=Peacockjr
+
+#EXTINF:-1 tvg-id="PeppaPig" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=1K81PxoJYBI&ab_channel=PeppaPig-OfficialChannel
+
+#EXTINF:-1 tvg-id="Krabby Patty" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=3Ll1IY3pwiw&ab_channel=NickelodeonUK
+
+#EXTINF:-1 tvg-id="BabyBus" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=UK_4X0beYIc&ab_channel=BabyBus-KidsSongsandCartoons
+
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=OjlaUkllTss&ab_channel=DisneyJunior
+
+#EXTINF:-1 tvg-id="CleverCars" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=CKqHa3Agarw&ab_channel=CleverCars
+
+#EXTINF:-1 tvg-id="KidsSongs" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=zLO3xHujRcA&ab_channel=SuperSimpleSongs-KidsSongs
+
+#EXTINF:-1 tvg-id="PBSKIDS" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=uKjqKu7FaMw&ab_channel=PBSKIDS
+
+#EXTINF:-1 tvg-id="Rotterdam" tvg-logo="" group-title="LiveCam"
+http://www.youtube.com/watch?v=nFozEhYTEMo&ab_channel=RotterdamMakeItHappenLive.

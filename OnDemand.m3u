@@ -1,9 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",movie
-http://fdown.net/downloader.php?id==cTYiVTN2kDN0EmZl1CZ3UGOtQDMyQTLmFGMx0CNzIGMjZzY30DZpNmJ5gTYlJWOlhjNmhDNtIDO2IWL1ETY00SM0YDMtEWM1UmMhZGN9QWaw9DO1NTbu0TPBJGdShEZ1lkaNdXS6hFM1clWzZ0RWZmVtRGcONzYoFDMY1WOygFMoJjWwZlMWZmVHJWaG12YoZVbZVnVxgFbodkVmN2X5UTO4IjNyI2X0NXastmb1h2YvwWatNnLyIDMy8FduVGbhR1XlZXazNXYN9lZv9FdodWald1XlxmYhJXYlJmbV9VZoRlOslWbz9ibpdWay9UbslmZv5WdG9icp5SbslmZv5Wdm5yZulWbhVmc0NHZpZnco9yL6MHc0RHa
+#EXTINF:-1 tvg-id="Bing-NL" tvg-logo="" group-title="Kids",movie
+http://www.youtube.com/watch?v=wxbMjPPIY4w&ab_channel=BingNederlands-Offici%C3%ABleKanaal
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",movie2
-http://naabmovie.metafilm.ir/content/download/4fa2e51a-0641-4a15-b682-48f68e9bea89/7c6c0b34-10af-4204-8e7d-efa449655ba7/HD1080
+#EXTINF:-1 tvg-id="TalkingTom" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=MeAmikSx3v8&ab_channel=TalkingTom
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",movie3
-http://fdown.net/downloader.php?id=kRDN5UWZ3YTZ3YWYtgDZ2kTLwQTN00yM0ADMtI2M0EGZiRWO9QWajZSO4EWZilTZ4YjZ4QTLygjNi1SNxEGNtEDN2ATLhFTNlJTYmRTPklGc/gTdz0mLzFzRkBTN51UeBpWTmpEWaRHbXp1b1clW3J0MUZ2YfBTO1ADN2EjYfR3cpx2auVHaj9Cbp12cuMjMwIzXyVWbpVGauVGcw9kOslWbz9ibpdWay9UbslmZv5WdG9icp5SbslmZv5Wdm5yZulWbhVmc0NHZpZnco9yL6MHc0RHa
+#EXTINF:-1 tvg-id="PAWPatrol" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=sb54zo11hSU&ab_channel=PAWPatrolOfficial%26Friends
+
+#EXTINF:-1 tvg-id="Peacockjr" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=01bBZuHJ5yk&ab_channel=Peacockjr
+
+#EXTINF:-1 tvg-id="PeppaPig" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=1K81PxoJYBI&ab_channel=PeppaPig-OfficialChannel
+
+#EXTINF:-1 tvg-id="Krabby Patty" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=3Ll1IY3pwiw&ab_channel=NickelodeonUK
+
+#EXTINF:-1 tvg-id="BabyBus" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=UK_4X0beYIc&ab_channel=BabyBus-KidsSongsandCartoons
+
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=OjlaUkllTss&ab_channel=DisneyJunior
+
+#EXTINF:-1 tvg-id="CleverCars" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=CKqHa3Agarw&ab_channel=CleverCars
+
+#EXTINF:-1 tvg-id="KidsSongs" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=zLO3xHujRcA&ab_channel=SuperSimpleSongs-KidsSongs
+
+#EXTINF:-1 tvg-id="PBSKIDS" tvg-logo="" group-title="Kids"
+http://www.youtube.com/watch?v=uKjqKu7FaMw&ab_channel=PBSKIDS
+
+#EXTINF:-1 tvg-id="Rotterdam" tvg-logo="" group-title="LiveCam"
+http://www.youtube.com/watch?v=nFozEhYTEMo&ab_channel=RotterdamMakeItHappenLive.
